@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.JavaAnagrams.executor": "Run",
     "Application.JavaStringReverse.executor": "Run",
     "Application.JavaSubstringComparisons.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -73,7 +74,7 @@
       <updated>1717247550774</updated>
       <workItem from="1717247552119" duration="499000" />
       <workItem from="1717316292206" duration="28000" />
-      <workItem from="1718312830269" duration="5436000" />
+      <workItem from="1718312830269" duration="7388000" />
     </task>
     <servers />
   </component>
