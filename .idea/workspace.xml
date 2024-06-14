@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c377db39-f8b3-4dd7-a6fc-00a85e0918f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,7 @@
     "Application.JavaAnagrams.executor": "Run",
     "Application.JavaStringReverse.executor": "Run",
     "Application.JavaSubstringComparisons.executor": "Run",
+    "Application.StringTokens.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -74,7 +76,10 @@
       <updated>1717247550774</updated>
       <workItem from="1717247552119" duration="499000" />
       <workItem from="1717316292206" duration="28000" />
-      <workItem from="1718312830269" duration="7388000" />
+      <workItem from="1718312830269" duration="7777000" />
+      <workItem from="1718321930473" duration="31000" />
+      <workItem from="1718321980088" duration="219000" />
+      <workItem from="1718401854125" duration="1954000" />
     </task>
     <servers />
   </component>
