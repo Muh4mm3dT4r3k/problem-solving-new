@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c377db39-f8b3-4dd7-a6fc-00a85e0918f0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +35,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Java1DArray.executor": "Run",
+    "Application.Java2DArray.executor": "Run",
     "Application.JavaAnagrams.executor": "Run",
+    "Application.JavaBigDecimal.executor": "Run",
+    "Application.JavaBigInteger.executor": "Run",
+    "Application.JavaPrimalityTest.executor": "Run",
     "Application.JavaStringReverse.executor": "Run",
     "Application.JavaSubstringComparisons.executor": "Run",
+    "Application.RegexSyntaxChecker.executor": "Run",
     "Application.StringTokens.executor": "Run",
+    "Application.ValidUsernameRegularExpression.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -61,8 +67,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -79,7 +85,9 @@
       <workItem from="1718312830269" duration="7777000" />
       <workItem from="1718321930473" duration="31000" />
       <workItem from="1718321980088" duration="219000" />
-      <workItem from="1718401854125" duration="1954000" />
+      <workItem from="1718401854125" duration="6392000" />
+      <workItem from="1719702372101" duration="5752000" />
+      <workItem from="1719751011985" duration="1755000" />
     </task>
     <servers />
   </component>
