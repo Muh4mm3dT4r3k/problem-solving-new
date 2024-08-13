@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c377db39-f8b3-4dd7-a6fc-00a85e0918f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GroupAnagrams.executor": "Run",
     "Application.Java1DArray.executor": "Run",
     "Application.Java2DArray.executor": "Run",
     "Application.JavaAnagrams.executor": "Run",
@@ -47,6 +52,7 @@
     "Application.Main.executor": "Run",
     "Application.RegexSyntaxChecker.executor": "Run",
     "Application.StringTokens.executor": "Run",
+    "Application.TopKFrequentElements.executor": "Run",
     "Application.ValidUsernameRegularExpression.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -66,14 +72,6 @@
       <recent name="E:\Software\Java\Core\ProblemSolving\src\main\java\org\example" />
     </key>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -90,6 +88,7 @@
       <workItem from="1718401854125" duration="6392000" />
       <workItem from="1719702372101" duration="5752000" />
       <workItem from="1719751011985" duration="5530000" />
+      <workItem from="1723559822507" duration="7483000" />
     </task>
     <servers />
   </component>
